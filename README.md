@@ -2,13 +2,13 @@
 <h1 align="center" >Hi I'm Sulaiman Biswas</h1> 
 <h4 align="center">Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h4>
 <hr>
-<div align="center">
+<div>
   <a href="https://github.com/sulaimanbiswas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaimanbiswas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimanbiswas&layout=compact&langs_count=7&theme=dracula"/>
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="tailwind" height="50" width="50" src="https://github.com/sulaimanbiswas/sulaimanbiswas/blob/admin/tailwind.png">
