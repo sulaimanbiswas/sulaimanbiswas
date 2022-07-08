@@ -1,7 +1,7 @@
 <div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
-<h1 >Hi I'm Sulaiman Biswas</h1> 
+<h1 align="center" >Hi I'm Sulaiman Biswas</h1> 
 <h4 align="center">Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h4>
-
+<hr>
 <div>
   <a href="https://github.com/sulaimanbiswas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaimanbiswas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
