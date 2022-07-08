@@ -11,7 +11,7 @@ Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="tailwind" height="50" width="50" src="https://github.com/Sulaimanbiswas/sulaimanbiswas/blob/66908276d08f89b1e0d8ea078dbfa40507188c08/tailwind.png">
+<img align="center" alt="tailwind" height="50" width="50" src="https://github.com/sulaimanbiswas/sulaimanbiswas/blob/admin/tailwind.png">
 <img align="center" alt="bootstrap" height="60" width="60" src="https://img.icons8.com/color/452/bootstrap.png">
 <img align="center" alt="PHP" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
 <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
