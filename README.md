@@ -1,4 +1,4 @@
-# Hi I'm Sulaiman Biswas 
+<div style="text-align:center;"># Hi I'm Sulaiman Biswas</div>
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!
