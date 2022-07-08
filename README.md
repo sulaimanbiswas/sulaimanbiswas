@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimanbiswas&layout=compact&langs_count=7&theme=dracula"/>
     <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><h3 align="left">Languages and Tools:</h3><br>
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="tailwind" height="50" width="50" src="https://github.com/sulaimanbiswas/sulaimanbiswas/blob/admin/tailwind.png">
@@ -24,6 +24,7 @@
   ##
  
 <div> 
+  <h3 align="left">Connect with me:</h3>
   <a href="https://www.twitter.com/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/sulaimanbiswasbd/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
