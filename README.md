@@ -1,7 +1,5 @@
 <div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
-<h1 align="center">Hi I'm Sulaiman Biswas</h1>
-
-Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!
+<h1 align="center">Hi I'm Sulaiman Biswas</h1> <h1>Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h1>
 
 <div>
   <a href="https://github.com/sulaimanbiswas">
