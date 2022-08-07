@@ -31,8 +31,6 @@
   <a href="https://join.skype.com/invite/MXCPv0RAcLav" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a> 
   
  
-  (https://github.com/sulaimanbiswas/sulaimanbiswas/blob/admin/github-user-contribution.svgs)
- 
 </div>
 
 <br />
