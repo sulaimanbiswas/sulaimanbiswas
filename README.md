@@ -1,27 +1,42 @@
 <div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
-<h1 align="center" >Hi I'm Sulaiman Biswas</h1> 
+<h1 align="center" >Hi I'm Md Suliman</h1> 
 <h4 align="center">Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h4>
-<hr>
-<div>
-  <a href="https://github.com/sulaimanbiswas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaimanbiswas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimanbiswas&layout=compact&langs_count=7&theme=dracula"/>
-    <figure><embed src="https://wakatime.com/share/@8c212965-ff46-4a88-a097-7c8a1718035a/e499dd8c-9339-4209-9caa-90044529f1cf.svg"></embed></figure>
+<br>
+
+---
+
+<br>
+<div style="display: inline_block"><h3 align="left">Expertise</h3>
+    <img align="center" alt="HTML" src="https://img.icons8.com/color/48/null/html-5--v1.png">
+    <img align="center" alt="CSS" src="https://img.icons8.com/color/48/null/css3.png">
+    <img align="center" alt="bootstrap" src="https://img.icons8.com/color/48/null/bootstrap.png">
+    <img align="center" alt="tailwind" src="https://img.icons8.com/color/48/null/tailwindcss.png">
+    <img align="center" alt="JavaScript" src="https://img.icons8.com/color/48/null/javascript--v1.png">
+    <img align="center" alt="ReactJS" src="https://img.icons8.com/officel/48/000000/react.png">
+    <img align="center" alt="NodeJS" src="https://img.icons8.com/fluency/48/null/node-js.png">
+    <img align="center" alt="MongoDB" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png">
 </div>
-<div style="display: inline_block"><h3 align="left">Languages and Tools:</h3><br>
-    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="tailwind" height="50" width="50" src="https://github.com/sulaimanbiswas/sulaimanbiswas/blob/admin/tailwind.png">
-<img align="center" alt="bootstrap" height="60" width="60" src="https://img.icons8.com/color/452/bootstrap.png">
-<img align="center" alt="PHP" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
-<img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
-<img align="center" alt="Js" height="50" width="50" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
-<img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/officel/144/000000/react.png">
-<!--     <img align="right" alt="code" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif"> -->
+<br>
+
+---
+
+<br>
+<div style="display: inline_block"><h3 align="left">Tools & Technology</h3>
+    <img align="center" alt="git" src="https://img.icons8.com/color/48/null/git.png">
+    <img align="center" alt="GitHub" src="https://img.icons8.com/ios/48/null/github--v1.png">
+    <img align="center" alt="VSCode" src="https://img.icons8.com/fluency/48/null/visual-studio.png">
+    <img align="center" alt="Figma" src="https://img.icons8.com/color/48/null/figma--v1.png">
+    <img align="center" alt="Firebase" src="https://img.icons8.com/color/48/null/firebase.png">
+    <img align="center" alt="Firebase" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/000000/external-glyph-shapes-tanah-basah-glyph-tanah-basah-69.png">
+    <img align="center" alt="Firebase" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png">
 
 </div>
   
-  ##
+  <br>
+
+---
+
+<br>
  
 <div> 
   <h3 align="left">Connect with me:</h3>
