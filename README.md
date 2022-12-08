@@ -1,4 +1,4 @@
-<div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+<div align="center" ><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></div>
 <h1 align="center" >Hi I'm Md Suliman</h1> 
 <h4 align="center">Welcome to my profile! I'm a Front-End Web Developer from Bangladesh. Thanks for visiting and I'd love to connect!</h4>
 <br>
@@ -29,11 +29,8 @@
 
 </div>
 
-
 ---
 
-<br>
- 
 <div> 
   <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
