@@ -41,9 +41,10 @@
 
 <div>
   <a href="https://www.linkedin.com/in/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitter.com/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitter.com/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/sulaimanbiswasbd/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://join.skype.com/invite/MXCPv0RAcLav" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/sulaimanbiswas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 </div>
 
 ---
