@@ -43,11 +43,11 @@
 
 ---
 
-### 📊 GitHub Status:
+### GitHub Status:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulaimanbiswas&theme=blue_green)
 
-## 📊 GitHub Activity Graph:
+## GitHub Activity Graph:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sulaimanbiswas&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false)
 
