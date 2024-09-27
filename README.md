@@ -49,11 +49,11 @@
 
 ---
 
-### GitHub Activity Graph:
+<!-- ### GitHub Activity Graph:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sulaimanbiswas&bg_color=070e07&color=00fa11&line=0ed4d8&point=fffafa&area=true&hide_border=true)
 
----
+--- -->
 
 ### Others Stats:
 
