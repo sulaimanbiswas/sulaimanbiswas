@@ -11,28 +11,40 @@
 
 ### Expertise:
 
-![](https://img.icons8.com/color/48/null/html-5--v1.png)
-![](https://img.icons8.com/color/48/null/css3.png)
-![](https://img.icons8.com/color/48/null/bootstrap.png)
-![](https://img.icons8.com/color/48/null/tailwindcss.png)
-![](https://img.icons8.com/color/48/null/javascript--v1.png)
-![](https://img.icons8.com/color/48/null/typescript.png)
-![](https://img.icons8.com/officel/48/000000/react.png)
-![](https://img.icons8.com/color/48/null/nextjs.png)
-![](https://img.icons8.com/fluency/48/null/node-js.png)
-![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
+![](https://skillicons.dev/icons?i=html)
+![](https://skillicons.dev/icons?i=css)
+![](https://skillicons.dev/icons?i=bootstrap)
+![](https://skillicons.dev/icons?i=tailwindcss)
+![](https://skillicons.dev/icons?i=sass)
+![](https://skillicons.dev/icons?i=javascript)
+![](https://skillicons.dev/icons?i=typescript)
+![](https://skillicons.dev/icons?i=react)
+![](https://skillicons.dev/icons?i=nextjs)
+![](https://skillicons.dev/icons?i=laravel)
+![](https://skillicons.dev/icons?i=redux)
+![](https://skillicons.dev/icons?i=nodejs)
+![](https://skillicons.dev/icons?i=expressjs)
+![](https://skillicons.dev/icons?i=postman)
+![](https://skillicons.dev/icons?i=mongodb)
+![](https://skillicons.dev/icons?i=materialui)
 
 ---
 
 ### Tools & Technology:
 
-![](https://img.icons8.com/color/48/null/git.png)
-![](https://img.icons8.com/ios/48/null/github--v1.png)
-![](https://img.icons8.com/fluency/48/null/visual-studio.png)
-![](https://img.icons8.com/color/48/null/figma--v1.png)
-![](https://img.icons8.com/color/48/null/firebase.png)
-<img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="48">
-![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png)
+![](https://skillicons.dev/icons?i=git)
+![](https://skillicons.dev/icons?i=github)
+![](https://skillicons.dev/icons?i=vscode)
+![](https://skillicons.dev/icons?i=npm)
+![](https://skillicons.dev/icons?i=yarn)
+![](https://skillicons.dev/icons?i=figma)
+![](https://skillicons.dev/icons?i=firebase)
+![](https://skillicons.dev/icons?i=notion)
+![](https://skillicons.dev/icons?i=vercel)
+![](https://skillicons.dev/icons?i=netlify)
+![](https://skillicons.dev/icons?i=ps)
+![](https://skillicons.dev/icons?i=ai)
+![](https://skillicons.dev/icons?i=md)
 
 ---
 
