@@ -69,12 +69,6 @@
 
 ---
 
-### GitHub Activity Snake Graph:
-
-<img src="https://raw.githubusercontent.com/sulaimanbiswas/sulaimanbiswas/output/snake.svg" alt="Snake animation" />
-
----
-
 ### Others Stats:
 
 ![](https://visitcount.itsvg.in/api?id=sulaimanbiswas&icon=0&color=0 "Visitor Count")
