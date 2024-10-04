@@ -71,7 +71,7 @@
 
 ### GitHub Activity Snake Graph:
 
-![](https://raw.githubusercontent.com/sulaimanbiswas/sulaimanbiswas/output/snake.svg)
+<img src="https://raw.githubusercontent.com/sulaimanbiswas/sulaimanbiswas/output/snake.svg" alt="Snake animation" />
 
 ---
 
