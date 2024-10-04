@@ -69,6 +69,12 @@
 
 ---
 
+### GitHub Activity Snake Graph:
+
+![](https://raw.githubusercontent.com/sulaimanbiswas/sulaimanbiswas/output/snake.svg)
+
+---
+
 ### Others Stats:
 
 ![](https://visitcount.itsvg.in/api?id=sulaimanbiswas&icon=0&color=0 "Visitor Count")
