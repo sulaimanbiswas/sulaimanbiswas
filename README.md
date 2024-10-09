@@ -69,6 +69,10 @@
 
 ---
 
+### GitHub Stats:
+
+![snake gif](https://github.com/sulaimanbiswas/sulaimanbiswas/blob/output/github-contribution-grid-snake.gif)
+
 ### Others Stats:
 
 ![](https://visitcount.itsvg.in/api?id=sulaimanbiswas&icon=0&color=0 "Visitor Count")
