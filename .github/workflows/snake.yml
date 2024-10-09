@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.5.0 # Updated version
 
       - name: Generate snake gif
         uses: Platane/snk@master
@@ -24,12 +24,19 @@ jobs:
       - name: Check git status
         run: git status
 
+      - name: Add changes to git
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake contribution grid"
+
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: github-actions-x/commit@v3.11
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+          branch: main # Make sure this is your correct branch name
+          force: true # Optional if you need to force push changes
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
