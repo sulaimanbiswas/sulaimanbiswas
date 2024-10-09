@@ -69,7 +69,7 @@
 
 ---
 
-### GitHub Stats:
+### GitHub Snake Animation:
 
 ![snake gif](https://github.com/sulaimanbiswas/sulaimanbiswas/blob/output/github-contribution-grid-snake-dark.svg)
 
